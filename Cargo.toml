@@ -1,0 +1,16 @@
+[package]
+name = "vimeo-downloader"
+version = "0.1.0"
+authors = ["Hongjie Zhai <zhaihj@live.jp>"]
+
+[dependencies]
+serde="*"
+serde_derive="*"
+serde_json="*"
+base64="*"
+hyper="*"
+futures="*"
+tokio-core="*"
+url="*"
+hyper-tls="*"
+clap="*"
