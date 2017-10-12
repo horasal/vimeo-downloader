@@ -1,4 +1,4 @@
-Download vimeo segemnted video (master.json)
+Download vimeo segmented video (master.json)
 
 
 ### Compile
